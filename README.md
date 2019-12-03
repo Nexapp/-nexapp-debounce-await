@@ -1,11 +1,11 @@
 
 
 # Installation
-`$ yarn add @nexapp/debounce-await`
+`$ npm install @nexapp/debounce-await --save`
 
 or
 
-`$ npm install @nexapp/debounce-await --save`
+`$ yarn add @nexapp/debounce-await`
 
 # Usage
 
