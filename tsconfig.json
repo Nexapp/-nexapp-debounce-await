@@ -6,7 +6,8 @@
     "declaration": true,
     "outDir": "dist",
     "strict": true,
-    "esModuleInterop": false
+    "esModuleInterop": false,
+    "allowSyntheticDefaultImports": true
   },
   "include": ["./src"],
   "exclude": [
