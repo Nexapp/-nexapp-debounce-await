@@ -1,6 +1,6 @@
 {
   "name": "@nexapp/debounce-await",
-  "version": "1.0.2-2",
+  "version": "1.0.2-3",
   "description": "Debounce async functions by resolve status",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
